@@ -1,0 +1,256 @@
+body {
+    font-family: 'Source Sans Pro', Arial, Tahoma, sans-serif;
+    font-size: 13px;
+    color: #727272
+}
+.header {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.header .input-group {
+    margin-top: 20px;
+}
+
+#atas {
+    height: 5px;
+    background-color: #d8b446;
+}
+
+.card-head {
+    background-color: #d8b446;
+}
+
+.navbar {
+    background-color: #003366;
+    color: #ffffff;
+}
+
+.navbar .nav > li > a:hover, .navbar-default .nav > li > a:focus {
+    background-color: #0753a0;
+    color: rgb(255, 255, 255);
+}
+
+.nav .nav-link {
+    color: #ffffff;
+    font-size: 12px;
+}
+
+.nav a {
+    color: #003366;
+    font-size: 14px;
+}
+
+a:hover{
+    outline: none;
+}
+
+.navbar-toggler-icon .fas{
+    color: #ffffff;
+    margin-top: 6px;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+ }
+
+ #nav li .active a {
+	background-color: blue;
+}
+
+#slidder{
+    /* width: 715px;
+    height: 300px; */
+}
+
+.beranda {
+    background-color: #e4e4e4;
+}
+
+.info {
+    width: 75px;
+    height: 75px;
+}
+
+#title{
+      font-weight: bold;
+      color: #003366;
+}
+
+a {
+    color: #003366;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.isi{
+    color: #ffffff;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+span a {
+    color: #b9972f;
+}
+
+.read-more {
+    float: right;
+}
+
+.content{
+    background-color: rgb(221, 221, 221);
+}
+
+.conten{
+    background-color: #e4e4e4;
+}
+.conten span{
+    text-align: left;
+    font-weight: bold;
+}
+
+.card {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+/* #pengaduan {
+    background-color: #ffffff;
+} */
+
+.card-group #service {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.isi-visi-misi-motto ul li {
+    list-style-type: square;
+}
+
+.isi-visi-misi-motto li {
+    list-style-position: outside;
+    margin-left: 40px;
+}
+
+.isi-logo ul li {
+    list-style-type: square;
+}
+
+.isi-logo li {
+    list-style-position: outside;
+    margin-left: 40px;
+}
+
+.isi-asean-customs ul li{
+    list-style-type: square;
+}
+
+.isi-asean-customs li {
+    list-style-position: outside;
+    margin-left: 40px;
+}
+
+#pengaduan .card, #informasi .card{
+    background-color: #003366;
+}
+
+#pengaduan #title, #informasi #title {
+    color: #ffffff;
+}
+
+#pengaduan p,#pengaduan li, #informasi p, #informasi li{
+    color: #c4c5ff;
+}
+
+#pengaduan button {
+    margin-top: 10px;
+    
+}
+
+#pengaduan button:hover {
+    background-color: white;
+    color: #000000;
+}
+
+.post-meta {
+    font-size: 12px;
+    margin: 0 0 5px;
+}
+
+/* .social {
+    margin-left: 100px;
+} */
+
+
+h2 {
+    font-size: 3.3em;
+    line-height: 1em;
+}
+
+.share {
+    margin-top: 20px;
+}
+
+.section-title span {
+    color: #003366;
+}
+
+#frame {
+    height: 640px;
+    width: 840px;
+    margin: 65px auto 65px auto;
+    display: block;
+    border: 0;
+    box-shadow: 0 0 30px #222;
+}
+
+#outer {
+    background: url('/wp-content/themes/academica_pro/frame/bg.png') repeat #003366 !important;
+    display: block;
+    padding: 100px;
+    background-position: center top !important;
+}
+
+
+#footer {
+    background-color: #003366;
+    font-size: 14px;
+    color: #ffffff;
+}
+#footer #title {
+    color: #ffffff;
+}
+
+#footer a{
+    color: #d8b446;
+}
+
+ul {
+    margin: 0;
+    padding-left: 0;
+    list-style: none;
+}
+
+.widget-gold .loop-post-testimonial .testimonial {
+    background-color: #e8c762;
+    border-top: solid 1px #b9972f;
+    color: #675314;
+}
+
+#copyright {
+    background-color: #031c35;
+    text-align: center;
+    font-size: 14px;
+    height: 70px;
+    color: #ffffff;
+}
+
+.copy {
+    padding-top: 25px;
+}
+
+
